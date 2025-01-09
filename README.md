@@ -9,7 +9,7 @@
 
 ## See
 
-- https://suiranfes.github.io/mock-store-datas/products.json
+- <https://suiranfes.github.io/mock-store-datas/products.json>
 
 ## 編集方法
 
