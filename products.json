@@ -1,12 +1,12 @@
 [
   {
     "itemName": "チュロス",
-    "itemPrice": 200,
+    "itemPrice": 250,
     "itemImage": "sample-data/icons/03.svg"
   },
   {
     "itemName": "かき氷",
-    "itemPrice": 200,
+    "itemPrice": 250,
     "itemImage": "sample-data/icons/05.svg"
   },
   {
@@ -26,22 +26,17 @@
   },
   {
     "itemName": "フランクフルト",
-    "itemPrice": 200,
+    "itemPrice": 250,
     "itemImage": "sample-data/icons/01.svg"
   },
   {
     "itemName": "焼きそば",
-    "itemPrice": 300,
+    "itemPrice": 350,
     "itemImage": "sample-data/icons/09.svg"
   },
   {
-    "itemName": "クレープ",
-    "itemPrice": 350,
-    "itemImage": "sample-data/icons/07.svg"
-  },
-  {
     "itemName": "ドリンク各種",
-    "itemPrice": 300,
+    "itemPrice": 350,
     "itemImage": "sample-data/icons/04.svg"
   },
   {
