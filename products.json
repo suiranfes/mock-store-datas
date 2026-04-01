@@ -37,12 +37,12 @@
     {
     "itemName": "カットパイン",
     "itemPrice": 300,
-    "itemImage": "sample-data/icons/10.svg"
+    "itemImage": ""
   },
   {
     "itemName": "ベビーカステラ",
     "itemPrice": 300,
-    "itemImage": "sample-data/icons/10.svg"
+    "itemImage": ""
   },
   {
     "itemName": "ペットボトル",
